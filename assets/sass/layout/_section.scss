@@ -1,0 +1,35 @@
+.section {
+  position: relative;
+}
+
+h2 {
+  font-style: $raleway;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.section__div {
+  position: relative;
+  left: 50%;
+  bottom: 10rem;
+  line-height: 1.5rem;
+
+}
+
+.section__object {
+  position: relative;
+  left: 20rem;
+
+}
+
+.section__object--barra {
+  animation: opacidad 5s ease-in-out 0s infinite;
+
+
+}
+
+.section__subtitulo {
+  font-style: $raleway;
+  font-family: sans-serif;
+  font-weight: $bold;
+}

@@ -1,0 +1,33 @@
+.footer {
+  background-color: $raising-black;
+  color: $white;
+  padding: 1rem 0;
+  font-style: $open-sans;
+  font-family: sans-serif;
+  font-weight: $x-small;
+}
+.footer__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.footer__container--1 {
+  flex-grow: 1;
+}
+
+.footer__container--2 {
+  flex-grow: 1;
+}
+
+.footer__container--3 {
+  flex-grow: 1;
+}
+
+.footer__container--4 {
+  flex-grow: 2;
+  text-align: right;
+  padding: 0 2rem;
+
+}

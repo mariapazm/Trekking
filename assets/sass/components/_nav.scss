@@ -1,1 +1,30 @@
-.navbar
+.navbar {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+
+  }
+
+.navbar__menu ul li {
+ display: inline;
+ margin-right: 4rem;
+
+
+}
+
+.nav__list {
+  position: relative;
+  display: flex;
+
+}
+
+.div__buttons {
+  position: relative;
+  margin-right: 5rem;
+  margin-top: 1rem;
+
+}
+
+.main__image {
+  width: 100vw;
+}

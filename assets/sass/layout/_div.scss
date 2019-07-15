@@ -1,0 +1,52 @@
+
+.div__container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  font-family: sans-serif;
+
+}
+
+.div__container--titulo {
+ width: 100vw;
+ color: $white;
+ font-style: $raleway;
+ font-family: sans-serif;
+ font-weight: $bold;
+ padding-top: 4rem;
+
+}
+
+
+.div__object {
+  width: 100vw;
+  margin-top: -53rem;
+  z-index: -2;
+}
+
+.div__button--2 {
+  margin: 7rem 0;
+  
+}
+
+
+/*
+.row {
+
+}
+
+.div__object {
+  position: relative;
+  z-index: -2;
+}
+
+
+.div__titulo {
+ margin-top: 10vh;
+ display: flex;
+ position: absolute;
+ left: 33rem;
+ color: $white;
+ padding: 7.5rem;
+}
+*/
