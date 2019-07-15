@@ -1,7 +1,8 @@
 body {
   font-style: sans-serif;
   font-family: sans-serif;
-  font-weight: 400; }
+  font-weight: 400;
+  font-size: 16px; }
 
 @keyframes opacidad {
   0% {
